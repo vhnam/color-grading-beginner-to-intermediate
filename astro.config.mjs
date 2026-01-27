@@ -22,6 +22,10 @@ export default defineConfig({
               label: "Getting Started with Color Grading",
               slug: "an-absolute-beginner-s-crash-course/getting-started-with-color-grading",
             },
+            {
+              label: "Refining and Matching the Look",
+              slug: "an-absolute-beginner-s-crash-course/refining-and-matching-the-look",
+            }
           ],
         },
       ],
