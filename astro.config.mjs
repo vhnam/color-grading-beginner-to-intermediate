@@ -32,6 +32,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "How to Match Shots in DaVinci Resolve",
+          items: [
+            {
+              label: "Plan & See: Foundations for Matching",
+              slug: "how-to-match-shots-in-davinci-resolve/plan-and-see-foundations-for-matching",
+            },
+          ],
+        },
       ],
     }),
   ],
