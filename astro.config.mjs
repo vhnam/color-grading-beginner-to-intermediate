@@ -25,7 +25,11 @@ export default defineConfig({
             {
               label: "Refining and Matching the Look",
               slug: "an-absolute-beginner-s-crash-course/refining-and-matching-the-look",
-            }
+            },
+            {
+              label: "Practical Tips and Finalizing Your Grade",
+              slug: "an-absolute-beginner-s-crash-course/practical-tips-and-finalizing-your-grade",
+            },
           ],
         },
       ],
