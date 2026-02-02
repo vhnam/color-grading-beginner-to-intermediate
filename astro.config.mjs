@@ -43,6 +43,10 @@ export default defineConfig({
               label: "Understand & Control: Image Analysis + Tools",
               slug: "how-to-match-shots-in-davinci-resolve/understand-and-control-image-analysis-tools",
             },
+            {
+              label: "Match & Finish: A Practical Workflow",
+              slug: "how-to-match-shots-in-davinci-resolve/match-and-finish-a-practical-workflow",
+            },
           ],
         },
       ],
