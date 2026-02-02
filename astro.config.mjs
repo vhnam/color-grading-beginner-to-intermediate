@@ -39,6 +39,10 @@ export default defineConfig({
               label: "Plan & See: Foundations for Matching",
               slug: "how-to-match-shots-in-davinci-resolve/plan-and-see-foundations-for-matching",
             },
+            {
+              label: "Understand & Control: Image Analysis + Tools",
+              slug: "how-to-match-shots-in-davinci-resolve/understand-and-control-image-analysis-tools",
+            },
           ],
         },
       ],
